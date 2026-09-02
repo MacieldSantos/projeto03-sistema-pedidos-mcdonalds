@@ -89,7 +89,7 @@ As alterações realizadas nos clones não modificam os protótipos originais.
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/MacieldSantos/projeto03-sistema-pedidos-mcdonalds
 ```
 
 Entre na pasta:
